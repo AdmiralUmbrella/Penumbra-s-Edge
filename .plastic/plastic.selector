@@ -1,0 +1,4 @@
+repository "MIDTERM GP2@Admiral_Umbrella@cloud"
+  path "/"
+    br "/main"
+    co "/main"
